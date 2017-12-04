@@ -1,0 +1,40 @@
+{
+  "name": "trueprice",
+  "version": "0.1.0",
+  "main": "server/server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lowdb": "^0.16.2",
+    "memory-cache": "^0.2.0",
+    "moment": "^2.18.1",
+    "nodemon": "^1.11.0",
+    "normalizr": "^3.2.3",
+    "npm-run-all": "^4.0.2",
+    "path": "^0.12.7",
+    "prop-types": "^15.5.10",
+    "rc-calendar": "^8.4.6",
+    "react": "^15.6.1",
+    "react-autocomplete": "^1.5.9",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.1",
+    "react-scripts": "1.0.10",
+    "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.1",
+    "superagent": "^3.5.2"
+  },
+  "scripts": {
+    "postinstall": "npm run build",
+    "server": "cd server && node server.js",
+    "client": "react-scripts start",
+    "start": "npm run server",
+    "dev": "npm-run-all -p client server",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:5000"
+}
