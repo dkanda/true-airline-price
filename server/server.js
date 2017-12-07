@@ -5,8 +5,11 @@ const low = require('lowdb')
 const fileAsync = require('lowdb/lib/storages/file-async')
 const request = require('superagent');
 const cache = require('memory-cache');
+var cors = require('cors');
 
 const app = express();
+
+app.use(cors());
 
 const router = express.Router();
 app.use('/api', router);
