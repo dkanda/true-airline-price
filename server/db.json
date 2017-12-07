@@ -3,8 +3,8 @@
   "keys": [
     {
       "apiKey": "AIzaSyC87DfbN5sSpOfqE_IJNJvbIuoj-WHzJXg",
-      "usageCount": 16,
-      "lastAccess": "2017-12-04T18:48:54.225Z"
+      "usageCount": 4,
+      "lastAccess": "2017-12-07T02:52:09.597Z"
     },
     {
       "apiKey": "AIzaSyAQYYDUCUE1-8vIjbxtUVoehordu28Jnck",
@@ -42,7 +42,7 @@
       "carryon": [
         0
       ],
-      "numBags": 2,
+      "numBags": 1,
       "numCarryon": 1
     },
     {
@@ -59,7 +59,7 @@
       "carryon": [
         0
       ],
-      "numBags": 2,
+      "numBags": 1,
       "numCarryon": 1
     },
     {
@@ -135,9 +135,201 @@
         35
       ],
       "3": [
+        75
+      ],
+      "code": "SY",
+      "carryon": [
+        0
+      ]
+    },
+    {
+      "1": [
+        25,
+        70
+      ],
+      "2": [
+        25,
+        70
+      ],
+      "3": [
+        25,
+        70
+      ],
+      "code": "EI",
+      "carryon": [
+        0
+      ],
+      "numBags": 2,
+      "numCarryon": 1
+    },
+    {
+      "1": [
+        25
+      ],
+      "2": [
+        35
+      ],
+      "3": [
         100
       ],
       "code": "HA",
+      "carryon": [
+        0
+      ]
+    },
+    {
+      "1": [
+        25
+      ],
+      "2": [
+        55
+      ],
+      "3": [
+        180
+      ],
+      "code": "AM",
+      "carryon": [
+        0
+      ]
+    },
+    {
+      "1": [
+        0
+      ],
+      "2": [
+        80
+      ],
+      "3": [
+        80
+      ],
+      "code": "AF",
+      "carryon": [
+        0
+      ],
+      "numBags": 1,
+      "numCarryon": 1
+    },
+    {
+      "1": [
+        0
+      ],
+      "2": [
+        25,
+        70
+      ],
+      "3": [
+        40,
+        125
+      ],
+      "code": "NZ",
+      "carryon": [
+        0
+      ],
+      "numBags": 2,
+      "numCarryon": 1
+    },
+    {
+      "1": [
+        0
+      ],
+      "2": [
+        0
+      ],
+      "3": [
+        50,
+        100
+      ],
+      "code": "JL",
+      "carryon": [
+        0
+      ]
+    },
+    {
+      "1": [
+        10,
+        70
+      ],
+      "2": [
+        13,
+        80
+      ],
+      "3": [
+        13,
+        80
+      ],
+      "code": "DY",
+      "carryon": [
+        0
+      ]
+    },
+    {
+      "1": [
+        0
+      ],
+      "2": [
+        59,
+        95
+      ],
+      "3": [
+        59,
+        95
+      ],
+      "code": "FI",
+      "carryon": [
+        0
+      ],
+      "numBags": 1,
+      "numCarryon": 1
+    },
+    {
+      "1": [
+        0
+      ],
+      "2": [
+        0
+      ],
+      "3": [
+        50,
+        350
+      ],
+      "code": "SQ",
+      "carryon": [
+        0
+      ]
+    },
+    {
+      "1": [
+        0
+      ],
+      "2": [
+        100,
+        300
+      ],
+      "3": [
+        100,
+        300
+      ],
+      "code": "LX",
+      "carryon": [
+        0
+      ],
+      "numBags": 2,
+      "numCarryon": 1
+    },
+    {
+      "1": [
+        0
+      ],
+      "2": [
+        [
+          0,
+          100
+        ]
+      ],
+      "3": [
+        200
+      ],
+      "code": "VS",
       "carryon": [
         0
       ]
@@ -209,7 +401,7 @@
       "carryon": [
         0
       ],
-      "numBags": 2,
+      "numBags": 1,
       "numCarryon": 1
     },
     {
@@ -226,7 +418,7 @@
       "carryon": [
         0
       ],
-      "numBags": 2,
+      "numBags": 1,
       "numCarryon": 1
     },
     {

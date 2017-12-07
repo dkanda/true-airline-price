@@ -94,7 +94,7 @@ const getResultModel = (entities, tripOptionIds) => {
             flightDetail.saleFormatted = flightDetail.saleWithFeesLow;
         }
         else{
-            flightDetail.saleFormatted = "USD" + flightDetail.saleWithFeesLow + " - USD" + flightDetail.saleWithFeesHigh;
+            flightDetail.saleFormatted = flightDetail.saleWithFeesLow + " - USD" + flightDetail.saleWithFeesHigh;
         }
 
         for (let slice of tripOption.slice) {
@@ -122,6 +122,7 @@ const getResultModel = (entities, tripOptionIds) => {
         }
         flightDetails.push(flightDetail);
     }
+
     return flightDetails;
 }
 

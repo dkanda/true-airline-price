@@ -1,7 +1,5 @@
 # True Price
 
-![React Redux Node.js](https://image.ibb.co/d9FAZQ/Capture.png)
-
 This project aggregates airline ticket prices with each airline's unique baggage fee policy to return the true price of the flight given your preferences.
 
 Flight search results come from [Google QPX Express Api](https://developers.google.com/qpx-express/). 50 requests are free daily for a valid Google api key.

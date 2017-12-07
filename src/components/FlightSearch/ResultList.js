@@ -39,7 +39,7 @@ const ResultList = ({ result }) =>
                         </div>
                     </div>
                     <div className="booking-item">
-                        <span className="booking-item-price">{detail.saleFormatted}</span>
+                        <span className="booking-item-price">USD{detail.saleFormatted}</span>
                         <p className="booking-item-flight-class">Actual Fare</p>
                         <p>Fare Breakdown: {detail.saleTotal}{detail.baggageFee}</p>
                         <p className="booking-item-flight-class">* Fares adjusted per number of travelers.</p>
